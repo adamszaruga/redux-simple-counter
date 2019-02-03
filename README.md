@@ -6,7 +6,7 @@ Take a look at the /src folder - You'll find a working counter app that uses Red
 
 ## Instructions
 
-Add the below features to the counter app one at a time. For each feature, you might find yourself editing the code in these ways:
+Add the features below one at a time. For each feature, you might find yourself editing the code in these ways:
 - Updating reducer.js to include a new if-block for the new Action
 - Updating index.html to include additional HTML elements (buttons, input tags, etc.)
 - Updating index.js to include additional DOM event listeners that dispatch actions
